@@ -15,3 +15,6 @@ getBudgets([
   { name: "Martin",  age: 16, budget: 1600 }
 ])    
 // 62600
+
+
+
